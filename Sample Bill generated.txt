@@ -1,0 +1,14 @@
+ Purchase Bill 
+
+Customer name: Shruthi
+Date: 06/09/2021
+Time: 08:58:51
+
+name: Milk Cake   qty: 2   amount: 600
+name: kurkure   qty: 3   amount: 105
+name: oreo   qty: 1   amount: 30
+
+----------------------------------------------------------------------------------
+ Total amount to be paid = 735
+----------------------------------------------------------------------------------
+Thank you! Do purchase again

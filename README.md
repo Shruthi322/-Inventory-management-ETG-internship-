@@ -1,6 +1,8 @@
 # -Inventory-management-ETG-internship-
 An project on inventory management system
+
 The various functionalities in this system are:
+
 1)Displays all the products in the inventory.
 2)Can add a new product.
 3)Can update the quantity of an exsisting product.

@@ -17,10 +17,10 @@ The various functionalities in this system are:
 
 7)The updated inventory after multiple transactions is stored in the file record_updates.json
 
-7)Displays the bill in the terminal.
+8)Displays the bill in the terminal.
 
-8)File handling is used to store a copy of the bill generated.
+9)File handling is used to store a copy of the bill generated.
 
-9)Displays the bill with the current date and time along with the customer name.
+10)Displays the bill with the current date and time along with the customer name,products purchased and total amount.
 
-10)The sales transactions are recorded and stored in sales.json file.
+11)The sales transactions are recorded and stored in sales.json file.
